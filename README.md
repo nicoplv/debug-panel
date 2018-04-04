@@ -2,7 +2,7 @@
 
 A debug panel for Unity3D to always show the current value of variables
 
-![Debug Panel for Unity3D](https://i.imgur.com/63zOXly.png)
+![Debug Panel for Unity3D](https://i.imgur.com/iJV65Iz.png)
 
 ## Installation
 
