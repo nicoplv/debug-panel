@@ -8,7 +8,10 @@ namespace DebugPanelExamples
 
         public void Update()
         {
-            DebugPanel.Log("Time", Time.time, "Time Information");
+            // Log the current time
+            DebugPanel.Log("Time", Time.time);
+
+            // Log the current delta time in a group "Time Information"
             DebugPanel.Log("Delta Time", Time.deltaTime, "Time Information");
         }
 
