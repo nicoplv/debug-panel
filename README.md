@@ -6,7 +6,7 @@ A debug panel for Unity3D to always show the current value of variables
 
 ## Installation
 
-Import the [package](https://github.com/nicoplv/debug-panel/raw/master/DebugPanel.unitypackage) on your project and that's all ... you have access easily to all the tags and layers on your code.
+Import the [last package](https://github.com/nicoplv/debug-panel/releases) on your project and that's all!
 
 ## Usage
 To log a variable awesomeVariable with the label "My Awesome Variable" on the group "My Awesome Group":
